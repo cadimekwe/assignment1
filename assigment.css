@@ -1,0 +1,86 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: white;
+    background-image: url(Records.jpg);
+    background-size: cover;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.selection {
+    color: white ;
+    background-color: #ef8354;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.selling {
+    color: white;
+    background-color: #0e7c7b;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.live {
+    color: white;
+    background-color: #9c538b;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+a:hover {
+background-color: #9c538b;
+}
+    
+.shop {
+    width: 500px;
+}
+.vinyl {
+    width: 500px;
+}
+.mic {
+    width: 500px;
+}
+.linkface {
+    color: #ef8354;
+}
+.used {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nina {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+.collection {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.new {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wide {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.comealong {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.violet {
+    color: white;
+    text-align: center;
+}
+.sale {
+    font-weight: bold;
+}
